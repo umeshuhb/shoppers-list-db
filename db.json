@@ -98,19 +98,19 @@
         "id": 1, 
         "name": "Dell Inspiron R 1564", 
         "imageUrl": "assets/images/dell.jpg",
-        "description": " 10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+        "description": " 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
     },{
         "categoryId": 1,
         "id": 2, 
         "name": "Lenovo IdeaPad S145", 
         "imageUrl": "assets/images/laptop_lenovo.jpg",
-        "description": "Product description : 10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz"        
+        "description": "Product description : 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz"        
     },{ 
         "categoryId":1,
         "id": 3, 
         "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
         "imageUrl": "assets/images/hp-laptop.png",
-        "description": "10th Generation Intel Core i3-1005G1 \n \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
+        "description": "10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
     },{ 
         "categoryId":1,
         "id": 4, 
@@ -134,25 +134,25 @@
          "id": 1, 
         "name": "Lava Z- 66", 
         "imageUrl": "assets/images/lava.jpg",
-        "description": " Product description : \n Model: Lava Z - 66\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
       },{
         "categoryId":2,
          "id": 2, 
         "name": "Oppo A3", 
         "imageUrl": "assets/images/oppo.jpg",
-        "description": " Product description : \n Model: Oppo A3\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) , TÜV Rheinland Low Blue Light Certification \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM cards"        
+        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) , TÜV Rheinland Low Blue Light Certification \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM cards"        
       },{
         "categoryId":2,
          "id": 3, 
         "name": "Mi A 3", 
         "imageUrl": "assets/images/mi-a3.jpg",
-        "description": " Product description : \n Model: Mi A 3 \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie"        
+        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie"        
       },{
         "categoryId":2,
          "id": 4, 
         "name": "Samsung A 31", 
         "imageUrl": "assets/images/samsung_b31.jpeg",
-        "description" : " Product description : \n Model: Samsung A31\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+        "description" : " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
       },{
         "categoryId":2,
          "id": 5, 
