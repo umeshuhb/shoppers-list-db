@@ -104,7 +104,7 @@
         "id": 2, 
         "name": "Lenovo IdeaPad S145", 
         "imageUrl": "assets/images/laptop_lenovo.jpg",
-        "description": "Product description : 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz"        
+        "description": " 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz"        
     },{ 
         "categoryId":1,
         "id": 3, 
@@ -116,7 +116,7 @@
         "id": 4, 
         "name": "Asus Vivobook XT i5-1035G1//8G", 
         "imageUrl": "assets/images/asus.jpg",
-        "description":"10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English \r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
+        "description":" 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English \r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, DDR4, 2666MHz \n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
     },{
         "categoryId":1,
          "id": 5, 
@@ -128,13 +128,13 @@
           "id": 6, 
           "name": "Lenovo IdeaPad S145", 
           "imageUrl": "assets/images/laptop_lenovo.jpg",
-          "description":"10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Lenovo recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
+          "description":" 10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Lenovo recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
       },{
         "categoryId":2,
          "id": 1, 
         "name": "Lava Z- 66", 
         "imageUrl": "assets/images/lava.jpg",
-        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
       },{
         "categoryId":2,
          "id": 2, 
@@ -146,7 +146,7 @@
          "id": 3, 
         "name": "Mi A 3", 
         "imageUrl": "assets/images/mi-a3.jpg",
-        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie"        
+        "description": " Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \n CPU frequency: up to 2.4GHz Processor bits: 64-bit \n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie"        
       },{
         "categoryId":2,
          "id": 4, 
@@ -158,7 +158,7 @@
          "id": 5, 
         "name": "Nokia B", 
         "imageUrl": "assets/images/nokia.jpg",
-        "description":" Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+        "description":" Product description : CPU model: Qualcomm Snapdragon 765G (7nm process) \n CPU frequency: up to 2.4GHz Processor bits: 64-bit \n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
       },{
         "categoryId":2,
          "id": 6, 
@@ -170,7 +170,7 @@
          "id": 1, 
         "name": "Boat Stone 210", 
         "imageUrl": "assets/images/boat.png",
-        "description": " Product description : Sound: 3W Output \n Battery Backup:  8 hours \n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls."
+        "description": " Product description : Sound: 3W Output \n Battery Backup:  8 hours \n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls."
       },{
         "categoryId":3,
          "id": 2, 
