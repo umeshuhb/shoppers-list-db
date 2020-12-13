@@ -183,6 +183,11 @@
         "name": "JBL Flip 3",
         "imageUrl": "assets/images/jbl-flip3-speaker.png",
         "description" :" Product description : Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant 1 Mic for receiving calls"
+      },{"categoryId":3,
+         "id": 4, 
+        "name": "MIVI", 
+        "imageUrl": "assets/images/mivi1.png",
+        "description" :" Product description : Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot"
       }      
 	]
 }
