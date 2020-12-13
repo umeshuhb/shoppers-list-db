@@ -79,7 +79,7 @@
           },{
             "categoryId":3,
              "id": 2, "name": "Boat Stone 650 10W Speaker", 
-            "imageUrl": "assets/images/boat-stone-650-black_540x.jpg"
+            "imageUrl": "assets/images/boat-stone-650.jpg"
           },{
             "categoryId":3,
              "id": 3,         
@@ -114,7 +114,7 @@
     },{ 
         "categoryId":1,
         "id": 4, 
-        "name": "Asus Vivobook X509JA-BQ840T i5-1035G1//8G", 
+        "name": "Asus Vivobook XT i5-1035G1//8G", 
         "imageUrl": "assets/images/asus.jpg",
         "description":"10th Generation Intel Core i3-1005G1 \n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English \r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive"
     },{
@@ -175,7 +175,7 @@
         "categoryId":3,
          "id": 2, 
          "name": "Boat Stone 650 10W Speaker",  
-         "imageUrl": "assets/images/boat-stone-650-black_540x.jpg",
+         "imageUrl": "assets/images/boat-stone-650.jpg",
          "description":" Product description : Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water and dust resistant"         
       },{
         "categoryId":3,
