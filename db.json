@@ -11,51 +11,48 @@
     }],    
     "products": [
         {
-		  "categoryId":1,
-		  "id": 1, 
-		  "name": "Dell Inspiron R 1564", 
-		  "imageUrl": "assets/images/dell.jpg"
+  "categoryId":1,
+  "id": 1, 
+  "name": "Dell Inspiron R 1564", 
+  "imageUrl": "assets/images/dell.jpg"
+        },{ 
+"categoryId":1,
+"id": 2, 
+"name": "Lenovo IdeaPad S145", 
+"imageUrl": "assets/images/laptop_lenovo.jpg"
+        },{ 
+	"categoryId":1,
+	"id": 3, 
+	"name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+	"imageUrl": "assets/images/hp-laptop.png"
         },
         { 
-			"categoryId":1,
-			"id": 2, 
-			"name": "Lenovo IdeaPad S145", 
-			"imageUrl": "assets/images/laptop_lenovo.jpg"
+	"categoryId":1,
+	"id": 4, 
+	"name": "Asus Vivobook X509JA-BQ840T", 
+	"imageUrl": "assets/images/asus.jpg"
         },
-        { 
-			"categoryId":1,
-			"id": 3, 
-			"name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
-			"imageUrl": "assets/images/hp-laptop.png"
-        },
-        { 
-			"categoryId":1,
-			"id": 4, 
-			"name": "Asus Vivobook X509JA-BQ840T", 
-			"imageUrl": "assets/images/asus.jpg"
-        },
-		{
-		"categoryId":1,
-		 "id": 5, 
-		"name": "Dell Inspiron R 1564", 
-		"imageUrl": "assets/images/dell.jpg"
-        },
-          { 
-		  "categoryId":1,
-		  "id": 6, 
-		  "name": "Lenovo IdeaPad S145", 
-		  "imageUrl": "assets/images/laptop_lenovo.jpg"
+	{
+	"categoryId":1,
+	 "id": 5, 
+	"name": "Dell Inspiron R 1564", 
+	"imageUrl": "assets/images/dell.jpg"
+	},          { 
+	  "categoryId":1,
+	  "id": 6, 
+	  "name": "Lenovo IdeaPad S145", 
+	  "imageUrl": "assets/images/laptop_lenovo.jpg"
           },
           { 
-		  "categoryId":1,
-		  "id": 7, 
-		  "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
-		  "imageUrl": "assets/images/hp-laptop.png"
+	  "categoryId":1,
+	  "id": 7, 
+	  "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+	  "imageUrl": "assets/images/hp-laptop.png"
           },{
             "categoryId":2,
              "id": 1, 
             "name": "Lava Z- 66",
-			"imageUrl": "assets/images/lava.jpg"
+	"imageUrl": "assets/images/lava.jpg"
           },{
             "categoryId":2,
             "id": 2, 
@@ -79,12 +76,12 @@
           },
           {
             "categoryId":2,
-			"id": 6, 
+	    "id": 6, 
             "name": "One plus 7 T", 
-			"imageUrl": "assets/images/oneplus.jpg"
+	    "imageUrl": "assets/images/oneplus.jpg"
           },{
             "categoryId":3,
-             "id": 1, 
+            "id": 1, 
             "name": "Boat Stone 210", 
             "imageUrl": "assets/images/boat.png"
           },{
@@ -94,13 +91,13 @@
           },{
             "categoryId":3,
              "id": 3,         
-			 "name": "JBL Flip 3",
+	    "name": "JBL Flip 3",
             "imageUrl": "assets/images/jbl-flip3-speaker.png"
           },{
             "categoryId":3,
-			"id": 4, 
+	    "id": 4, 
             "name": "MIVI",
-			"imageUrl": "assets/images/mivi1.png"
+	"imageUrl": "assets/images/mivi1.png"
           }
     ],
 
